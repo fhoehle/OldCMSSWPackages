@@ -1,0 +1,24 @@
+/PF2PAT_EventContent_cff.py/1.3/Tue Jun 21 14:21:21 2011//TB4_2_X_V00-03-05
+/PF2PAT_cff.py/1.6.2.2/Fri Mar  9 17:33:34 2012//TB4_2_X_V00-03-05
+/PFBRECO_cff.py/1.1.4.2/Fri Mar  9 17:33:34 2012//TB4_2_X_V00-03-05
+/genForPF2PAT_cff.py/1.2/Wed Mar 16 18:09:17 2011//TB4_2_X_V00-03-05
+/goodOfflinePrimaryVertices_cfi.py/1.2/Tue Jun 14 12:13:23 2011//TB4_2_X_V00-03-05
+/pfElectrons_cff.py/1.3/Thu Sep 29 05:15:12 2011//TB4_2_X_V00-03-05
+/pfJets_cff.py/1.1/Fri Jan 28 20:56:44 2011//TB4_2_X_V00-03-05
+/pfMET_cfi.py/1.4.2.1/Fri Mar  9 17:33:34 2012//TB4_2_X_V00-03-05
+/pfMuons_cff.py/1.3/Thu Sep 29 05:15:12 2011//TB4_2_X_V00-03-05
+/pfNoPileUpIso_cff.py/1.1.2.1/Tue Oct 11 11:10:15 2011//TB4_2_X_V00-03-05
+/pfNoPileUp_cff.py/1.1/Fri Jan 28 20:56:44 2011//TB4_2_X_V00-03-05
+/pfParticleSelection_cff.py/1.1.2.1/Tue Oct 11 11:10:15 2011//TB4_2_X_V00-03-05
+/pfPhotons_cff.py/1.1/Fri Jul 22 14:22:43 2011//TB4_2_X_V00-03-05
+/pfPileUpCandidates_cff.py/1.1.2.2/Fri Sep 30 08:26:39 2011//TB4_2_X_V00-03-05
+/pfPileUp_cfi.py/1.3/Thu Sep 29 05:15:12 2011//TB4_2_X_V00-03-05
+/pfTaus_cff.py/1.3/Wed Mar 16 18:09:17 2011//TB4_2_X_V00-03-05
+/pfType1MET_cff.py/1.1/Fri Jan 28 20:56:44 2011//TB4_2_X_V00-03-05
+/pfType1MET_cfi.py/1.2/Wed Mar  9 17:22:55 2011//TB4_2_X_V00-03-05
+D/GeneratorTools////
+D/Isolation////
+D/ParticleSelectors////
+D/Sources////
+D/Tools////
+D/TopProjectors////
