@@ -1,0 +1,12 @@
+/BuildFile.xml/1.1/Tue Mar  9 13:21:22 2010//TV06-07-14
+/runtestTqafTopEventProducers.cpp/1.2/Thu Jun 25 09:03:49 2009//TV06-07-14
+/runtests.sh/1.7/Wed Sep  8 11:59:00 2010//TV06-07-14
+/stGenEvent_cfg.py/1.5/Wed Sep  8 11:59:00 2010//TV06-07-14
+/tqaf_cfg.py/1.12/Thu Feb 10 19:41:04 2011//TV06-07-14
+/tqaf_woGeneratorInfo_cfg.py/1.17.2.1/Fri Nov  4 10:01:00 2011//TV06-07-14
+/ttDecaySelection_cfg.py/1.15/Thu Feb 10 19:41:04 2011//TV06-07-14
+/ttDecaySubset_cfg.py/1.17/Thu Feb 10 19:41:04 2011//TV06-07-14
+/ttFullHadEvtBuilder_cfg.py/1.12/Thu Feb 10 19:41:04 2011//TV06-07-14
+/ttFullLepEvtBuilder_cfg.py/1.18/Thu Feb 10 19:41:04 2011//TV06-07-14
+/ttSemiLepEvtBuilder_cfg.py/1.35/Thu Feb 10 19:41:04 2011//TV06-07-14
+D
