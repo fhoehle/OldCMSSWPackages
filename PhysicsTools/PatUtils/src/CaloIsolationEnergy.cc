@@ -36,8 +36,8 @@ float CaloIsolationEnergy::calculate(const Muon & theMuon, const std::vector<Cal
 float CaloIsolationEnergy::calculate(const reco::Track & theTrack, const float leptonEnergy, const std::vector<CaloTower> & theTowers, float isoCone) const {
   float isoELepton = 0;
   // calculate iso energy
-  const CaloTower * closestTower = 0;
-  float closestDR = 10000;
+//  const CaloTower * closestTower = 0;
+//  float closestDR = 10000;
   for (std::vector<CaloTower>::const_iterator itTower = theTowers.begin(); itTower != theTowers.end(); itTower++) {
     // calculate dPhi with correct sign
     float dPhi = theTrack.phi() - itTower->phi();
@@ -48,10 +48,10 @@ float CaloIsolationEnergy::calculate(const reco::Track & theTrack, const float l
     // calculate energy in cone around direction at vertex of the track
     if (dR < isoCone) {
       isoELepton += itTower->energy();
-      if (dR < closestDR) {
-        closestDR = dR;
-        closestTower = &(*itTower);
-      }
+//      if (dR < closestDR) {
+//        closestDR = dR;
+//        closestTower = &(*itTower);
+//      }
     }
   }
   // subtract track deposits from total energy in cone
